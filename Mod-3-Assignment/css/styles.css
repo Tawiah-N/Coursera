@@ -1,0 +1,56 @@
+body{
+    font-size: 20px;
+    color: palevioletred;
+    background-color: #98ff23;
+    font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 1.7 em;
+    color: black;
+}
+#header-nav{
+    background-color: #12d0ff;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand, #heading{
+    border: 0;
+    padding-top: 0;
+
+}
+
+
+
+#longText{
+    background-color: #9ffff4;
+}
+#heading{
+    font-size: 2em;
+    font-family: cursive;
+}
+h3{text-align: center;}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #12615a;
+}
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -30px;
+}
+
+#nav-list {
+    margin-top: 10px;
+    background-color: #27a3c2;
+}
+#nav-list a {
+	color: #951C49;
+	text-align: center;
+}
+#nav-list a:hover {
+    background: #E7E7E7;
+    font-weight: bold;
+}  
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
